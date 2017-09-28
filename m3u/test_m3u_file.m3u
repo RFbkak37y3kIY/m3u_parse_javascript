@@ -1,0 +1,7 @@
+#EXTM3U 
+#EXTINF:-1 tvg-name="BBC" audio-track="en" tvg-logo="http://mylogos.domain/BBC.png", BBC World 
+http://server.name/stream/to/video2 
+#EXTINF:0 tvg-name="CNN" audio-track="jp" group-title="Fav", CNN International 
+http://server.name/stream/to/video2 
+#EXTINF:2356, Arirang 
+http://server.name/stream/to/video3 
